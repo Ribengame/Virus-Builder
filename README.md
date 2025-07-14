@@ -34,6 +34,7 @@ More scripts will be added with time
 # Support
 For any support/help, iam mostly active on Telegram @cyberoxide
 
-
+## Info
+This repository is intended for legal and ethical purposes only. It contains tools designed for educational use, security research, and penetration testing, with the aim of improving system security. All activities carried out with the tools in this repository should be performed with proper authorization and consent from the system owner. Any use of these tools for malicious or unauthorized actions is strictly prohibited and violates the repository's purpose.
 
 
