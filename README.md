@@ -4,9 +4,6 @@ More scripts will be added with time
 
 ![Screenshot 2025-02-08 234202](https://github.com/user-attachments/assets/e721ce68-3765-499a-b404-d862a1fa8ee9)
 
-# Telegram
-* Join Telegram Channel https://t.me/cyox2
-* Contact me on [Telegram](http
 # Usage
 1. git clone https://github.com/Cyber-Dioxide/Virus-Builder/
 2. cd Virus-Builder
